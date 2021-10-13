@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1633718071 source:c:\ssot\cp3.1\main.c
+	<stdio.h>
+	"func_prot.h"
+
+1633718435 c:\ssot\cp3.1\func_prot.h
+
+1633718439 source:c:\ssot\cp3.1\matrix.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"func_prot.h"
+
+1633718193 source:c:\ssot\cp3.1\func_array.c
+
+1633718200 source:c:\ssot\cp3.1\func_matrix.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"func_prot.h"
+
